@@ -1,4 +1,4 @@
-<h1 align="center">Exercicios de Extra de Portugol Studio</h1>
+<h1 align="center">Exercicios Extra de Portugol Studio</h1>
 
 	-Como funciona o Portugol Studio
 	-Como utilizar as variáveis, funções
